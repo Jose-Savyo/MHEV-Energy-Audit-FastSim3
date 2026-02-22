@@ -27,6 +27,7 @@ Unlike a simple statistical model, this project implements a **Digital Twin** of
 
 ## 🚀 How to Run the Study
 The linked Google Colab notebook is pre-configured to install all necessary dependencies, including the FASTSim-3 library, directly in the cloud environment.
+
 You can run the full simulation directly in your browser:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/172hh0eWJTsfl8z_79xZAPO8WzonAvxYK?usp=sharing)
